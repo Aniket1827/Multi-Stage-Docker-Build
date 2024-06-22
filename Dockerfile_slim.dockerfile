@@ -1,4 +1,4 @@
-# Base image
+# Base image(Builder Image)
 FROM python:3.8 as base_image
 
 # Set the working directory inside the container
